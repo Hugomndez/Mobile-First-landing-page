@@ -1,0 +1,10 @@
+.main-tables--slider {
+    flex-direction: row;
+    justify-content: center;
+    gap: 50px;
+    margin: 0 auto;
+}
+.plans-container--slider {
+    margin: 0 auto;
+    width: 750px;
+}
